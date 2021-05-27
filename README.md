@@ -99,7 +99,9 @@ Thanks to Udacity for the starter code and FigureEight for providing the data se
 
 3. Go to http://0.0.0.0:3001/
 
-![alt text](https://github.com/Katba-Caroline/Disaster_Response_Message_Classification_Pipelines/blob/master/images/Screenshot%20(98).png)
-![alt text](https://github.com/Katba-Caroline/Disaster_Response_Message_Classification_Pipelines/blob/master/images/Screenshot%20(96).png)
-![alt text](https://github.com/Katba-Caroline/Disaster_Response_Message_Classification_Pipelines/blob/master/images/Screenshot%20(97).png)
+![alt text](pipeline.png)
+
+
+
+
 
